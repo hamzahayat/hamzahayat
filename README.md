@@ -1,9 +1,10 @@
 ### Hi, I'm Hamza 👋🏽
 
-> I'm a Full-Stack Developer with an affinity for building mobile apps.
-I love to learn and and have always been dedicated to refining my craft but not as dedicated as I am to the art of napping. 😅   When I'm not napping, I'm working on a really exciting venture called [Mydoh](https://mydoh.ca/) at [RBC Ventures](https://www.rbcventures.ca/en). 
+_I'm a Full-Stack Developer with an affinity for building mobile apps.
+I love to learn and and have always been dedicated to refining my craft but not as dedicated as I am to the art of napping. 😅   When I'm not napping, I'm working on a really exciting venture called [Mydoh](https://mydoh.ca/) at [RBC Ventures](https://www.rbcventures.ca/en)._
 
-<img src="./assets/background-image.png"  align="right">
+--- 
+<img src="./assets/background-image.png" width="435" height="266"  align="right">
 
 -  <img width="20" height="20" src="./assets/mydoh-icon.png">  I'm currently work on Mydoh, a money management app for parents and kids.
 - 📥   You can always reach me at itshamza@hey.com or [@LinkedIn](https://www.linkedin.com/in/hamzaqaisrani/)
