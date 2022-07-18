@@ -35,7 +35,7 @@
 <br>
 
 _I'm a Full-Stack Developer with an affinity for building mobile apps.
-I love to learn and am dedicated to refining my craft but not as dedicated as I am to the art of napping. 😅 When I'm not napping, I'm working on some really cool things at [Wealthsimple](https://www.wealthsimple.com/en-ca/product/cash)._
+I love to learn and am dedicated to refining my craft but not as dedicated as I am to the art of napping. 😅 When I'm not napping, I'm working on some really cool things at [Shakepay](https://shakepay.com/)._
 
 ---
 <img src="https://raw.githubusercontent.com/hamzahayat/hamzahayat/master/assets/background-image.png" width="395.45" height="241.81"  align="right">
