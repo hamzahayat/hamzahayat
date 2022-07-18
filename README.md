@@ -40,8 +40,6 @@ I love to learn and am dedicated to refining my craft but not as dedicated as I 
 ---
 <img src="https://raw.githubusercontent.com/hamzahayat/hamzahayat/master/assets/background-image.png" width="395.45" height="241.81"  align="right">
 
--  <img width="20" height="20" src="https://images.ctfassets.net/v44fuld738we/3p54yem0uWnzJSPyCLdQgN/10e0569c130b369cf6b33e2f1a88acc7/_2019_Wealthsimple_Favicon_Black.png">  I'm currently working as a Software Engineer at Wealthsimple, a company focused on allowing anyone and everyone to achieve financial freedom, regardless of who they are or how much they have.
-
 - 📥  You can always reach me at itshamza@hey.com or [@LinkedIn](https://www.linkedin.com/in/hamzaqaisrani/)
 
 - 📖  Check out my [Medium Page](https://medium.com/@hamzaqaisrani).
